@@ -34,3 +34,5 @@ Blank Application Setup
 11. Sass
   - $ npm i -D style-loader node-sass css-loader sass-loader
   - https://jestjs.io/docs/en/getting-started
+12. Webpack-dev-Server
+  - $ npm i -D webpack-dev-server
